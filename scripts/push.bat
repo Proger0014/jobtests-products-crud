@@ -32,7 +32,7 @@ CALL :configure "proger0014" "iakov56@yandex.ru" "https://github.com/Proger0014/
 EXIT /B 0
 
 :gitlab_settings
-CALL :configure "Iakov Kostenyuk" "iakov.kostenyuk@gmail.com" "https://gitlab.com/proger0014-jobtests/table-cells-processor.git"
+CALL :configure "Iakov Kostenyuk" "iakov.kostenyuk@gmail.com" "https://gitlab.com/proger0014-jobtests/products-crud.git"
 EXIT /B 0
 
 @REM %~1 - user.name
